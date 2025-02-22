@@ -46,9 +46,9 @@ const HIW = () => {
                     <h3 className="text-2xl font-bold mb-4 font-montserrat bg-clip-text text-transparent bg-gradient-to-r from-cyan-400 to-blue-500">
                         {
                              [
-                                "Secure Integration",
-                                "Smart Automation",
-                                "Instant Delivery",
+                                "Secure Banking System",
+                                "Smart Transaction",
+                                "Transaction History ",
                               ][index]
                               
                              
@@ -57,9 +57,9 @@ const HIW = () => {
                     <p className="text-gray-300 font-lato text-lg leading-relaxed">
                {
                     [
-                        "Military-grade encryption protects every transaction and data exchange",
-                        "AI-powered workflows optimize processes in real-time",
-                        "Lightning-fast deployment ensures immediate results",
+                        "Experiencing the futures of finance with our Smart Banking solutions-secure ",
+                        "Make every payment smarter with fast, secure, and intelligent transactions.",
+                        "Track your transactions effortlessly with a detailed and secure history at your fingertips",
                         ][index]
                         
                     
